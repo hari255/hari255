@@ -26,3 +26,5 @@ Feel free to reach out to me for collaboration or any questions:
 - **Medium**: [medium.com/@harinathreddy0035](https://medium.com/@harinathreddy0035)a)
 
 Thank you for visiting my GitHub repository! I look forward to connecting with you.
+
+# PROJECTS

@@ -1,6 +1,6 @@
 # Welcome.
 
-I am Harinath Mandha, a passionate data professional with over 4 years of experience in Data Science.
+I am **Harinath Reddy**, a passionate data professional with over 4 years of experience in Data Science.
 
 + My expertise lies in Exploratory data analysis, Machine Learning, and Statistics, with proficiency in Python, SQL, and R. 
 

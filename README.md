@@ -1,5 +1,4 @@
 # 👋 Welcome 
-I look forward to connecting with you.
 contact: harinathreddy0035@gmail.com
 
 
